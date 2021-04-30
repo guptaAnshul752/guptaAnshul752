@@ -23,10 +23,11 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 
-## You can connect with me
+## Connect with me
 
-- 📫 How to reach me **guptaanshul752@gmail.com**
+- 📫 Email :  **guptaanshul752@gmail.com**
 
+- LinkedIn
 <!-- display the social media buttons in your README -->
 &nbsp;&nbsp;&nbsp;&nbsp;[![alt text][1.1]][1]
 
