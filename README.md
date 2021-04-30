@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Anshul Gupta 
 
-- I'm a Pre-Final year B.tech student with specialization in Computer Science & Engineering.
+- I'm a Pre-Final year B.tech student with specialization in Computer Science Engineering.
 
-- Interested in contributing to open source projects. Currently Exploring Machine Learning.
+- Interested in contributing to open source projects. Currently exploring Machine Learning domain.
 
-- Skilled in Python, Data Science, Machine Learning and Web Development.
+- Proficient in Python, Data Science, Machine Learning and Web Development.
 
 ## Languages and Tools
 
