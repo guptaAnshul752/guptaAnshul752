@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Anshul Gupta 
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anshul</h1>
 
 - I'm a Pre-Final year B.tech student with specialization in Computer Science Engineering.
 
