@@ -1,29 +1,55 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anshul</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%" height="30%">
+</div>
 
-- I'm a Final year B.tech student with specialization in Computer Science Engineering.
+# 👋 Hello, I'm Anshul
 
-- Interested in contributing to open source projects. Currently exploring Machine Learning domain.
+A DevOps Engineer with over 2 years of experience in streamlining software delivery. Dedicated to building secure infrastructure and automating deployments.
 
-- Proficient in Python, Data Science, Machine Learning and Web Development.
+## 💻 Tech Stack
 
-## Languages and Tools
+Here are the tools and technologies I work with:
 
-![Python](https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/--purple?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white&color=lightblue)
-![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=java&ogoColor=white&color=lightgray)
-
-![Html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&color=blue)
-![CSS](https://img.shields.io/badge/CSS%20-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white&color=red)
-![JS](https://img.shields.io/badge/JavaScript%20-%23E34F26.svg?&style=for-the-badge&logo=javascript&logoColor=green&color=blue)
-
-![MachineLearning](https://img.shields.io/badge/-Machine%20Learning-darkgreen?style=for-the-badge)
-
-![Flask](https://img.shields.io/badge/-Flask-brown?style=for-the-badge&logo=flask)
-
-![MySQL](https://img.shields.io/badge/MySQL%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=blue)
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">Programming/Scripting Languages</h3>
+      <p style="color: #58a6ff;">Python, Java, YAML</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">Backend</h3>
+      <p style="color: #58a6ff;">Flask, Django, FastAPI</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">Cloud Platforms</h3>
+      <p style="color: #58a6ff;">AWS, Microsoft Azure</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">CI/CD Pipeline Tools</h3>
+      <p style="color: #58a6ff;">Jenkins, Gitlab, Azure DevOps, Github Actions</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">Developer Tools</h3>
+      <p style="color: #58a6ff;">Git, Docker, Kubernetes, Maven/Gradle/NPM, Nexus/Jfrog Artifactory</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">Databases</h3>
+      <p style="color: #58a6ff;">PostgreSQL, MySQL, MongoDB</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">IaC Tools</h3>
+      <p style="color: #58a6ff;">Terraform, Ansible</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">Security Tools</h3>
+      <p style="color: #58a6ff;">CheckMarX-SAST / SCA, SonarQube, OWASP DefectDojo / Dependency Check, Trivy</p>
+    </div>
+  </div>
+</div>
 
 ## Connect with me
+
+Let's get in touch:
 
 - 📫 Email :  **guptaanshul752@gmail.com**
 
