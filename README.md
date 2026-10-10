@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm Anshul
 
-A DevOps Engineer with over 2 years of experience in streamlining software delivery. Dedicated to building secure infrastructure and automating deployments.
+A Platform Engineer with over 4 years of experience in architecting cloud infrastructure for seamless software delivery. Dedicated to building secure infrastructure and automating deployments.
 
 ## 💻 Tech Stack
 
@@ -14,7 +14,7 @@ Here are the tools and technologies I work with:
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">Programming/Scripting Languages</h3>
-      <p style="color: #58a6ff;">Python, Java, YAML</p>
+      <p style="color: #58a6ff;">Python, Go, YAML</p>
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">Backend</h3>
@@ -22,7 +22,11 @@ Here are the tools and technologies I work with:
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">Cloud Platforms</h3>
-      <p style="color: #58a6ff;">AWS, Microsoft Azure</p>
+      <p style="color: #58a6ff;">AWS, Microsoft Azure, Google Cloud Platform</p>
+    </div>
+    <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
+      <h3 style="color: #58a6ff;">Cloud-Native Development</h3>
+      <p style="color: #58a6ff;">Docker, Kubernetes</p>
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">CI/CD Pipeline Tools</h3>
@@ -30,7 +34,7 @@ Here are the tools and technologies I work with:
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">Developer Tools</h3>
-      <p style="color: #58a6ff;">Git, Docker, Kubernetes, Maven/Gradle/NPM, Nexus/Jfrog Artifactory</p>
+      <p style="color: #58a6ff;">Git, ArgoCD, Maven/Gradle/NPM, Nexus/Jfrog Artifactory</p>
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">Databases</h3>
@@ -38,7 +42,7 @@ Here are the tools and technologies I work with:
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">IaC Tools</h3>
-      <p style="color: #58a6ff;">Terraform, Ansible</p>
+      <p style="color: #58a6ff;">Terraform, Ansible, OpenTofu</p>
     </div>
     <div style="margin: 10px; padding: 10px; border: 1px solid #58a6ff; border-radius: 5px; background: #1e1e1e;">
       <h3 style="color: #58a6ff;">Security Tools</h3>
